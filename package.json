@@ -1,0 +1,10 @@
+{
+  "name": "webhooks-testing",
+  "version": "1.0.0",
+  "description": "....",
+  "scripts": {
+    "test": "echo yeay"
+  },
+  "keywords": [],
+  "license": "MIT"
+}
